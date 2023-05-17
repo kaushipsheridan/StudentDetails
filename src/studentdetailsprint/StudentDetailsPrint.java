@@ -6,7 +6,7 @@ package studentdetailsprint;
 
 import java.util.Scanner;
 
-/**
+/** change wednesday
  *
  * @author srinivsi
  */
